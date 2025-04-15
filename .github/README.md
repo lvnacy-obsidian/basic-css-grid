@@ -6,6 +6,9 @@ and other grid-oriented options to the callout functionality when designing
 notes.
 
 ## How to Use
+1. Copy the `callout-grid-2.1.css` file into your Obsidian vault's 
+`.obsidian/snippets` directory.
+2. Enable the snippet in **Settings > Appearance > CSS snippets**
 
 ## Documentation and Origin
 This stylesheet is pulled from [this post][forum-post] on the 
